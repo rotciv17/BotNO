@@ -1,3 +1,7 @@
+## Créditos
+
+Este bot funciona gracias a la API desarrollada por [hotheadhacker](https://github.com/hotheadhacker/no-as-a-service). Todo el crédito por la lógica de las respuestas generadas va para su excelente trabajo.
+
 Para usar este bot primero hay que tener el contenedor de Libre Translate, lo puedes ejecutar con:
 
 ```bash
