@@ -30,5 +30,4 @@ Una vez con esto podemos ejecutarlo con
 python No_Mejorado.py 
 ```
 
-y podremos tener nuestro bot que dice NO 
-de muchas maneras.
+Una vez corriendo debemos inicalizarlo con `/start` y nos dara la bienvenida y para solicitar una respuesta utilizamos `/check` o `/no`
