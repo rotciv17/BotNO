@@ -1,0 +1,8 @@
+Las librerias usadas para que funcione el bot son las siguientes:
+
+asyncio
+json
+os
+logging
+python-telegram-bot
+requests
