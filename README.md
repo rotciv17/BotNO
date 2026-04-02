@@ -16,18 +16,18 @@ Luego de obtener el token del bot y exportarlo en la terminal con el comando:
 
 ```bash
 export TELEGRAM_TOKEN="TU_TOKEN_DEL_BOT"
-
 ```
-Despues debemos obtener el token de tu chat de telegram que se hace con el código llamado bot.py, para
-que no de error debemos haber exportado el token del bot con el comando anterior y este nos arrojara el id de 
-nuestro chat. Si no te aparece nada o te da error, envia un mensaje a tu bot y espera unos 5 segundos y vuelve
-a intentarlo. Cuando obtengas el codigo debemos exportarlo con el comando:
+Despues debemos obtener el token de tu chat de telegram que se hace con el código llamado Chat.py. Para que no de error debemos haber exportado el token del bot con el comando anterior y este nos arrojara el id de nuestro chat. Si no te aparece nada o te da error, envia un mensaje a tu bot y espera unos 5 segundos y vuelve a intentarlo.
+
+```bash
+python Chat.py
+```
+
+Cuando obtengas el codigo debemos exportarlo con el comando:
 
 
 ```bash
 export TELEGRAM_CHAT_ID="TU_CHAT_ID"
-
-
 ```
 Una vez con esto podemos ejecutarlo con 
 
