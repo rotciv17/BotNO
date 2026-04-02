@@ -1,4 +1,5 @@
 Para usar este bot primero hay que tener el contenedor de Libre Translate, lo puedes ejecutar con:
+sudo chmod +x install.sh
 ./install.sh
 
 Despues debemos crear un bot con el BotFather y obtener el token de este. 
